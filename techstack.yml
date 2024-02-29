@@ -2,7 +2,7 @@ repo_name: thachlp/github-readme-stats
 report_id: 4690f12e204a2cc4f514336b36ac3923
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:03:05+00:00'
+timestamp: '2024-02-29T18:26:26+00:00'
 requested_by: notpritam
 provider: github
 branch: master
@@ -94,7 +94,7 @@ tools:
   last_updated_by: anuraghazra
   last_updated_on: 2020-07-09 10:33:41.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 3.0.3
   license: MIT
